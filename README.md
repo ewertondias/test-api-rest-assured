@@ -1,2 +1,2 @@
 # teste-api-rest-assured
-Teste de API Rest com Rest Assured
+Test API Rest with Rest Assured
